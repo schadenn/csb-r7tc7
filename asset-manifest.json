@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://schadenn.github.io/csb-r7tc7/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://schadenn.github.io/csb-r7tc7/static/js/main.4e22a4a5.chunk.js",
-    "main.js.map": "https://schadenn.github.io/csb-r7tc7/static/js/main.4e22a4a5.chunk.js.map",
+    "main.js": "https://schadenn.github.io/csb-r7tc7/static/js/main.283cb018.chunk.js",
+    "main.js.map": "https://schadenn.github.io/csb-r7tc7/static/js/main.283cb018.chunk.js.map",
     "runtime-main.js": "https://schadenn.github.io/csb-r7tc7/static/js/runtime-main.c8a70bc6.js",
     "runtime-main.js.map": "https://schadenn.github.io/csb-r7tc7/static/js/runtime-main.c8a70bc6.js.map",
     "static/js/2.035063c5.chunk.js": "https://schadenn.github.io/csb-r7tc7/static/js/2.035063c5.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c8a70bc6.js",
     "static/js/2.035063c5.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.4e22a4a5.chunk.js"
+    "static/js/main.283cb018.chunk.js"
   ]
 }
